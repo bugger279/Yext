@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "uuid": "8beeb70c-98c8-4a64-a19a-9aafe437b084",
+    "errors": []
+  },
+  "response": {
+    "count": 4,
+    "locations": [
+      {
+        "id": "2207560645297267146",
+        "uid": "DM7PMW",
+        "timestamp": 1551096191041,
+        "accountId": "2548424804968113399",
+        "locationName": "Yext",
+        "address": "7900 Westpark Drive",
+        "address2": "Suite T200",
+        "city": "McLean",
+        "state": "VA",
+        "zip": "22102",
+        "countryCode": "US",
+        "language": "en",
+        "suppressAddress": false,
+        "phone": "8884442988",
+        "isPhoneTracked": false,
+        "localPhone": "6467624579",
+        "categoryIds": [
+          "668"
+        ],
+        "websiteUrl": "https://locations.yext.com/us/va/mclean/7900-westpark-drive.html",
+        "description": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+        "yextDisplayLat": 38.9246498,
+        "yextDisplayLng": -77.2169181,
+        "yextRoutableLat": 38.9243983751914,
+        "yextRoutableLng": -77.2178385786886,
+        "folderId": "0",
+        "locationType": "LOCATION",
+        "isoRegionCode": "VA",
+        "schemaTypes": [
+          "LocalBusiness"
+        ]
+      },
+      {
+        "id": "1479671016041926786",
+        "uid": "0wVDwW",
+        "timestamp": 1551096193396,
+        "accountId": "2548424804968113399",
+        "locationName": "Yext",
+        "address": "48 Warwick St.",
+        "address2": "Office 410",
+        "city": "London",
+        "state": "Gt Lon",
+        "zip": "W1B 5AW",
+        "countryCode": "GB",
+        "language": "en",
+        "suppressAddress": false,
+        "phone": "2037052290",
+        "isPhoneTracked": false,
+        "categoryIds": [
+          "668"
+        ],
+        "websiteUrl": "https://locations.yext.com/gb/gt-lon/london/48-warwick-st-.html",
+        "description": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+        "yextDisplayLat": 51.51071390000001,
+        "yextDisplayLng": -0.1377914,
+        "yextRoutableLat": 51.51076,
+        "yextRoutableLng": -0.13767,
+        "folderId": "0",
+        "locationType": "LOCATION",
+        "isoRegionCode": "LND",
+        "schemaTypes": [
+          "LocalBusiness"
+        ]
+      },
+      {
+        "id": "8897836421512103088",
+        "uid": "AkQrk9",
+        "timestamp": 1551096193500,
+        "accountId": "2548424804968113399",
+        "locationName": "Yext",
+        "address": "500 West Madison St.",
+        "address2": "Suite 2810",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60661",
+        "countryCode": "US",
+        "language": "en",
+        "suppressAddress": false,
+        "phone": "2129943900",
+        "isPhoneTracked": false,
+        "categoryIds": [
+          "668"
+        ],
+        "websiteUrl": "https://locations.yext.com/us/il/chicago/500-west-madison-st-.html",
+        "description": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+        "yextDisplayLat": 41.8823062,
+        "yextDisplayLng": -87.6403882,
+        "yextRoutableLat": 41.8818647348503,
+        "yextRoutableLng": -87.6404640905336,
+        "folderId": "0",
+        "locationType": "LOCATION",
+        "isoRegionCode": "IL",
+        "schemaTypes": [
+          "LocalBusiness"
+        ]
+      },
+      {
+        "id": "1173006788707776773",
+        "uid": "BmQzmL",
+        "timestamp": 1551096195062,
+        "accountId": "2548424804968113399",
+        "locationName": "Yext",
+        "address": "1 Madison Ave",
+        "address2": "5th Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10010",
+        "countryCode": "US",
+        "language": "en",
+        "suppressAddress": false,
+        "phone": "8884442988",
+        "isPhoneTracked": false,
+        "localPhone": "2128136543",
+        "categoryIds": [
+          "668"
+        ],
+        "websiteUrl": "https://locations.yext.com/us/ny/new-york/1-madison-ave.html",
+        "description": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+        "yextDisplayLat": 40.7410895,
+        "yextDisplayLng": -73.98750919999999,
+        "yextRoutableLat": 40.7411640951893,
+        "yextRoutableLng": -73.987830606551,
+        "folderId": "0",
+        "locationType": "LOCATION",
+        "isoRegionCode": "NY",
+        "schemaTypes": [
+          "LocalBusiness"
+        ]
+      }
+    ]
+  }
+}

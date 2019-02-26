@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Documentation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        form { display: flex; flex-direction: row; margin-bottom: 20px; }
+        #city { height: 22px; border: 1px solid rosybrown; padding: 8px; }
+        #srchBtn { padding: 8px 30px; height: 40px; background: #145; color: #fff; border: 1px solid #145; font-size: 18px; margin-left: 10px; }
+    </style>
+</head>
+<body>
+
+    <form action="http://127.0.0.1:5500/index.html" method="get">
+        <div class="row1"><input id="city" type="text" name="city"></div>
+        <div class="row2"><input id="srchBtn" type="button" value="Search"></div>
+    </form>
+    <ul class="newHtml"></ul>
+    
+    <script src="main.js"></script>
+</body>
+</html>
